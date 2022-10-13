@@ -1,10 +1,17 @@
 ### Hi, it's Annisa! 👋
 
-I'm a **Computer Science** undergraduate student. I currently learn **Deep Learning** theory and my last project is in **Natural Language Processing (NLP)** topic. I code **Python** 🐍. Currently learning Go!
+I'm a **Computer Science** undergraduate student. I have several experiences in Natural Language Processing (NLP) and currently learning backend engineering! I code **Python** 🐍. Currently learning **Go**! 🦦
 
-Besides techy stuff, I love to be involved in volunteering projects or non-profit organization (NGO) which focus in **women education** (especially in tech), **climate change**, or **responsible consumption**. Back then, I have involved in an environmental issues NGO (2020-2021) and became international volunteer - educate and create workshops about responsible consumption and production (SDGs 12) to 7th-grader, my current best memory (2018)!!! I speak **English** and **Indonesian**, also learning **Spanish** and **Hawaiian**!
+Besides techy stuff, I love to be involved in volunteering projects or non-profit organization (NGO) focusing on **women education** (especially in tech), **climate change**, or **responsible consumption**. Back then, I have involved in an environmental issues NGO (2020-2021) and became international volunteer - educate and create workshops about responsible consumption and production (SDGs 12) to 7th-grader, fun!!! I speak **Indonesian** and **English**.
 
-<br> 📫 Reach me on [LinkedIn](https://linkedin.com/in/annisann) or [e-mail](ennoza41@gmail.com).
+⚡ FuN faCtttTTTs:
+- I listen a lot to emo songs, also Sum 41, Bring Me The Horizon, Sleeping With Sirens.
+- I, too, listen a lot to Britney Spears, Elvis Presley, JLo, Tame Impala, Cali y El Dandee.
+- Having fun by visiting art gallery, watching art performances, gokarting... Never try wall climbing, take me!
+- My dream? Sky diving.. ☁️ Ocean is much more scary! LOL
+- Snacks which I could eat forever?!! Lidi pedes, keripik setan... maicih & karuhun :9
+
+<br> 📫 Reach me on [LinkedIn](https://linkedin.com/in/annisann) or [e-mail](hello.annisann@gmail.com).
 <br> *Mucho gusto, e ka hoa!* (re: Nice to meet you, friend!)
 
 <!--
