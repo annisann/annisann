@@ -1,6 +1,6 @@
 ### Hi, it's Annisa! 👋
 
-I'm a **Computer Science** undergraduate student. I have several experiences in Natural Language Processing (NLP) and currently learning backend engineering! I code **Python** 🐍. Currently learning **Go**! 🦦
+I studied **Computer Science** at University of Brawijaya, Indonesia. I have several experiences in Natural Language Processing (NLP) and currently learning backend engineering! I code **Python** 🐍. Currently learning **Go**! 🦦
 
 Besides techy stuff, I love to be involved in volunteering projects or non-profit organization (NGO) focusing on **women education** (especially in tech), **climate change**, or **responsible consumption**. Back then, I have involved in an environmental issues NGO (2020-2021) and became international volunteer - educate and create workshops about responsible consumption and production (SDGs 12) to 7th-grader, fun!!! I speak **Indonesian** and **English**.
 
